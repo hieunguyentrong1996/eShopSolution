@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "eShopOnline": "Data Source=ADMIN\\SQLEXPRESS;Initial Catalog=eShopSolution;Integrated Security=True"
+  }
+}
